@@ -2,13 +2,16 @@
 
 This is the working area for the individual Internet-Draft, "BBS per Verifier Linkability".
 
-* [Editor's Copy](https://basileioskal.github.io/bbs-per-verifier-id/draft-vasilis-bbs-per-verifier-linkability.html)
+* [Editor's Copy](https://Wind4Greg.github.io/bbs-per-verifier-id/#go.draft-vasilis-bbs-per-verifier-linkability.html)
+* [Datatracker Page](https://datatracker.ietf.org/doc/draft-vasilis-bbs-per-verifier-linkability)
+* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-vasilis-bbs-per-verifier-linkability)
+* [Compare Editor's Copy to Individual Draft](https://Wind4Greg.github.io/bbs-per-verifier-id/#go.draft-vasilis-bbs-per-verifier-linkability.diff)
 
 
 ## Contributing
 
 See the
-[guidelines for contributions](https://github.com/github.com/BasileiosKal/blob/main/CONTRIBUTING.md).
+[guidelines for contributions](https://github.com/Wind4Greg/bbs-per-verifier-id/blob/main/CONTRIBUTING.md).
 
 Contributions can be made by creating pull requests.
 The GitHub interface supports creating pull requests using the Edit (✏) button.
