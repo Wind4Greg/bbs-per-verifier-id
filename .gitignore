@@ -12,11 +12,12 @@
 /.targets.mk
 /.venv/
 /.vscode/
+/lib
 /node_modules/
 /versioned/
 Gemfile.lock
 archive.json
+draft-vasilis-bbs-per-verifier-linkability.xml
 package-lock.json
 report.xml
 !requirements.txt
-/lib/
