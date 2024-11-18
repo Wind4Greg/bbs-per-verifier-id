@@ -53,4 +53,4 @@ As in [Lysya200](#Lysya2000) we are concerned with the possibility of a dishones
 1. D. Chaum, “Security without identification: transaction systems to make big brother obsolete,” Commun. ACM, vol. 28, no. 10, pp. 1030–1044, Oct. 1985, doi: 10.1145/4372.4373. <a id="Chaum85"></a>
 2. A. Lysyanskaya, R. L. Rivest, A. Sahai, and S. Wolf, “Pseudonym Systems,” in Selected Areas in Cryptography, vol. 1758, H. Heys and C. Adams, Eds., in Lecture Notes in Computer Science, vol. 1758. , Berlin, Heidelberg: Springer Berlin Heidelberg, 2000, pp. 184–199. doi: 10.1007/3-540-46513-8_14. <a id="Lysya2000"></a>
 3. P. Bichsel et al., “D2.2 - Architecture for Attribute-based Credential Technologies - Final Version,” Aug. 2014. See https://abc4trust.eu/download/Deliverable_D2.2.pdf. <a id="ABC2014"></a>
-4.D. Boneh and V. Shoup, “A Graduate Course in Applied Cryptography”. Version 0.6 See https://toc.cryptobook.us/book.pdf <a id="BS2023"></a>
+4. D. Boneh and V. Shoup, “A Graduate Course in Applied Cryptography”. Version 0.6 See https://toc.cryptobook.us/book.pdf <a id="BS2023"></a>
